@@ -1,50 +1,65 @@
-# Module 20 Mini-Project: Bucket List
+# React Job List Application
+react front end, js
+[https://react-kpportfolio.onrender.com/](https://kp-portfolio-2025.onrender.com/)
 
-In this mini-project, you are given starter code for a React Bucket List app. Some pieces of the application are not complete, and it is your mission to take what you have learned so far and complete the app.
+<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Spinning React Logo" width="120" />
 
-This project invites you to use most of the concepts you've learned in this module. You will manage state using the `useState` Hook, pass data as props to child components, and use lists and keys to render a list of bucket-list items.
+This application is built with React and demonstrates the use of the `useState` Hook to manage dynamic state. Users can create a personalized list of jobs or tasks, assign a priority level to each task—such as "must do", "want to do", or "take it or leave it"—and easily manage their list.
 
-## Activity
+## Features
 
-Work with your group to resolve the following issues:
+- **Add Jobs:** Enter a new job or task and assign it a priority level.
+- **Prioritize Tasks:** Choose between "must do", "want to do", or "take it or leave it" for each job.
+- **Edit Tasks:** Update the job description or change its priority at any time.
+- **Delete Tasks:** Remove jobs from the list as needed.
+- **Visual Priority:** Each job displays a color or style that reflects its priority, making it easy to identify important tasks.
 
-* As a user, I want to be able to able to enter a bucket-list item.
+This project highlights key React concepts, including state management with `useState`, passing data as props, and rendering lists dynamically. It provides a practical example of building an interactive and user-friendly task management tool with React.
 
-* As a user, I want to be able to set the eagerness level of a bucket-list item.
+## Screenshots
 
-* As a user, I want to see a list of all my bucket-list items after they are added, with colors that identify their eagerness level.
+### Main Interface
+![Main Interface](./img/s1.jpg)
 
-* As a user, I want to be able to edit and delete bucket-list items.
+### Adding a New Job
+![Add Job](./img/s2.jpg)
 
-## Acceptance Criteria
+### Editing a Job
+![Edit Job](./img/s3.jpg)
 
-* It's done when I write logic to add a bucket-list item in `components/BucketList.jsx`.
 
-* It's done when I write logic to mark a bucket-list item as complete or incomplete.
+## Installation:
 
-* It's done when I write logic that will remove a bucket-list item from the list.
 
-* It's done when I write logic to update a bucket-list item in `components/Bucket.jsx`.
+To make changes to the code base, clone the repo ([repo](https://github.com/khoiphan-9194/React-BucketList/)).
+ Run the following at the command line
+```
+    - npm install
+    - npm run dev
+    or refer to script in package.json
+    
+```
 
-* It's done when I write logic to render a list of bucket-list items using `.map`.
+Users can also feel free to access the live application directly by visiting the render link ([Khoi Phan Portfolio](https://kp-portfolio-2025.onrender.com/)).
 
-* It's done when each bucket-list item has a color that corresponds to the priority or "eagerness" to complete.
+## Submission:
+ [KhoiPhan-Github repository](https://github.com/khoiphan-9194/React-BucketList)
 
-* It's done when each bucket-list item renders a button to edit and delete the item.  
+## License
+[![License: MIT](https://img.shields.io/badge/license-MIT-red)](https://opensource.org/licenses/MIT)
 
----
+SVG Logo Maker © is licensed under the ISC license.  
 
-## 💡 Hints
+For more information regarding the SVG Logo Maker's license, please visit: 
+https://opensource.org/licenses/MIT
 
-* How can we use string interpolation in `className` attributes to help change the color of the bucket-list items?
+  
+## Questions?
+  
+### Github:[khoiphan-9194](https://github.com/khoiphan-9194)
+  
+### Reach Me Via Email: phanminhkhoi91@gmail.com
 
-## 🏆 Bonus
+Thanks for viewing!
 
-If you have completed this activity, work through the following challenge with your partner to further your knowledge:
-
-* Which React Hooks could we use in combination with local storage to make the bucket list persist after refreshes?
-
-Use [Google](https://www.google.com) or another search engine to research this.
-
----
-© 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+<img src="https://raw.githubusercontent.com/its-jefe/image-hosting/main/goal-pole.png" width="20%">
