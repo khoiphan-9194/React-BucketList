@@ -1,6 +1,8 @@
 # React Job List Application
+
+![](https://img.shields.io/badge/Created%20by-Khoi%20Phan%20-yellow?style=for-the-badge)  
 react front end, js
-[https://react-kpportfolio.onrender.com/](https://kp-portfolio-2025.onrender.com/)
+[https://react-kpportfolio.onrender.com/](https://react-bucketlist.onrender.com/)
 
 <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="Spinning React Logo" width="120" />
 
@@ -40,7 +42,7 @@ To make changes to the code base, clone the repo ([repo](https://github.com/khoi
     
 ```
 
-Users can also feel free to access the live application directly by visiting the render link ([React-BucketList](https://kp-portfolio-2025.onrender.com/)).
+Users can also feel free to access the live application directly by visiting the render link ([React-BucketList](https://react-bucketlist.onrender.com/)).
 
 ## Submission:
  [KhoiPhan-Github repository](https://github.com/khoiphan-9194/React-BucketList)
