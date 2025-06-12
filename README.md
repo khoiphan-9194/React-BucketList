@@ -40,7 +40,7 @@ To make changes to the code base, clone the repo ([repo](https://github.com/khoi
     
 ```
 
-Users can also feel free to access the live application directly by visiting the render link ([Khoi Phan Portfolio](https://kp-portfolio-2025.onrender.com/)).
+Users can also feel free to access the live application directly by visiting the render link ([React-BucketList](https://kp-portfolio-2025.onrender.com/)).
 
 ## Submission:
  [KhoiPhan-Github repository](https://github.com/khoiphan-9194/React-BucketList)
